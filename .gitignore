@@ -6,3 +6,9 @@ temp/
 
 #ignore environment file
 /.env
+
+#folder ignore
+/images
+
+#composer.json
+/composer.json
